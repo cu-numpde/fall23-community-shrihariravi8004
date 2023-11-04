@@ -34,12 +34,7 @@ encountered a problem.
 
 ### Notes/concerns/risks
 
-Please comment on any anomalies or known risks to following this
-project, if you were unable to answer any questions above, or
-otherwise have concerns about the appropriateness of the software.  If
-the project requires a contributor license agreement or other
-procedural steps, please explain here.  "None at this time" is
-acceptable for this question.
+There are no known risks to following OpenFOAM, but the contribution process is not as attractive to developers as for the other open source packages. Those willing to contribute to OpenFOAM need to adhere to a strict coding pattern, and sign an agreement waiving off their rights on contribution credits. 
 
 #### Note on copyright
 Students retain copyright on any work done in completion of a CU
