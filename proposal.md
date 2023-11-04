@@ -1,10 +1,7 @@
 # Community Software Analysis Proposal
-Please edit this file and push to your repository.
+## Software: OpenFOAM
 
-## Software: *NAME_OF_PACKAGE_HERE*
-
-*Write a paragraph describing what the software does and who its
-primary audience is.*
+OpenFOAM is an open source software based on the Finite Volume Method. It is used for solving complex multiphysics problems such as fluid flow, turbomachinery, heat transfer, diffusion, plane-strain elasticity, electromagnetism, etc. The target of this software is the physics research community, primarily those who work on fluid mechanics and heat transfer problems, although it is known to perform exceptionally well in the other fields as well. It offers an attractive alternative to commercial software such as ANSYS or ABAQUS which have expensive licences and only offer limited capability for student/low level research projects. OpenFOAM has an active development community, although the contributions are controlled by the original authors of OpenFOAM and a few key contributors.
 
 ### Stats
 
